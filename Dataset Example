@@ -1,0 +1,5 @@
+surfaceTemp <- 25
+GTG(surfaceTemp)
+
+depth <- 33
+GTGTemp(surfaceTemp, depth)
