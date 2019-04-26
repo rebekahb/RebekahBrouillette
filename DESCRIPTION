@@ -1,0 +1,11 @@
+Package: RebekahBrouillette
+Type: Package
+Title: Geothermal Gradient Scale
+Version: 0.1.0
+Author: Rebekah Brouillette <rebekahb@mail.usf.edu> [aut, cre]
+Maintainer: Rebekah Brouillette <rebekahb@mail.usf.edu>
+Description: This function calculates the Geothermal Gradient Scale. The formula represents change in temperature as you increase in depth. The function calculates in km/degrees Celcius, the inputs are depth and surface temperature.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
